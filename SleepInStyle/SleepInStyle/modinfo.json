@@ -3,9 +3,9 @@
     "modid": "sleepinstyle",
     "name": "SleepInStyle",
     "authors": [
-        "Unknown"
+        "Kezie"
     ],
-    "description": "To be added",
+    "description": "Changes to progression of beds for a more realistic and colorful experience.",
     "version": "1.0.0",
     "dependencies": {
         "game": ""

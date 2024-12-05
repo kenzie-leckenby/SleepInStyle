@@ -58,4 +58,14 @@
   </Content>
 </ItemGroup>
 
+<ItemGroup>
+  <Folder Include="assets\sleepinstyle\blocktypes\" />
+  <Folder Include="assets\sleepinstyle\itemtypes\" />
+  <Folder Include="assets\sleepinstyle\textures\" />
+  <Folder Include="assets\sleepinstyle\sounds\" />
+  <Folder Include="assets\sleepinstyle\shapes\" />
+  <Folder Include="assets\sleepinstyle\recipes\" />
+  <Folder Include="src\" />
+</ItemGroup>
+
 </Project>
